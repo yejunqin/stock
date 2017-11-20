@@ -1,0 +1,13 @@
+{
+  "name": "stock",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:yejunqin/stock.git",
+  "author": "叶俊钦 <yejunqin@ezbuy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "superagent": "^3.8.1"
+  }
+}
