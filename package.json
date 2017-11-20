@@ -1,0 +1,8 @@
+{
+  "name": "stock",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:yejunqin/stock.git",
+  "author": "叶俊钦 <yejunqin@ezbuy.com>",
+  "license": "MIT"
+}
